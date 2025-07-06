@@ -1,0 +1,8 @@
+[2025-01-05 08:46:25] Parked vehicle: 87868 hk
+[2025-01-05 09:48:52] Parked vehicle: 453 aqsa
+[2025-01-05 09:50:29] Parked vehicle: 234 qqw
+[2025-01-05 10:38:37] Parked vehicle: 123 aqsa
+[2025-01-05 10:42:53] Parked vehicle: 123 d
+[2025-01-05 10:55:27] Parked vehicle: 123 aqsa
+[2025-01-05 10:56:05] Parked vehicle: 123 as
+[2025-01-05 10:57:42] Parked vehicle: 234 sad
